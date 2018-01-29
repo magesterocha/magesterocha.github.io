@@ -610,7 +610,7 @@ a.white-text:hover {
 }
 /* INTRO */
 .intro-section {
-	margin-top: 110px;
+	margin-top: 100px;
 }
 
 .intro-section p {
@@ -1264,3 +1264,8 @@ a.white-text:hover {
 	color: #313131;
 }
 
+.background-with-opacity {
+	background-color: rgba(0, 0, 0, 0.4);
+	padding: 0px 15px 15px 15px;
+	border-radius: 20px;
+}
